@@ -1,0 +1,26 @@
+{
+  "name": "browserify-inline",
+  "version": "1.0.0",
+  "description": "Call node.js (server-side) directly from browserify client-side code at build time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gist.github.com/eirikb/browserify-inline"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-transform"
+  ],
+  "author": "eirikb@eirikb.no",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/eirikb/browserify-inline"
+  },
+  "homepage": "https://gist.github.com/eirikb/browserify-inline",
+  "dependencies": {
+    "static-module": "^1.1.2"
+  }
+}
