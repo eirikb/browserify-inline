@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gist.github.com/eirikb/browserify-inline"
+    "url": "https://github.com/eirikb/browserify-inline"
   },
   "keywords": [
     "browserify",
@@ -17,9 +17,9 @@
   "author": "eirikb@eirikb.no",
   "license": "MIT",
   "bugs": {
-    "url": "https://gist.github.com/eirikb/browserify-inline"
+    "url": "https://github.com/eirikb/browserify-inline"
   },
-  "homepage": "https://gist.github.com/eirikb/browserify-inline",
+  "homepage": "https://github.com/eirikb/browserify-inline",
   "dependencies": {
     "static-module": "^1.1.2"
   }
